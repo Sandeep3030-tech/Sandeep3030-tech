@@ -24,6 +24,5 @@ I am currently pursuing a BSc (Hons) in Computer Science. My passion for technol
 ![Pyzo](https://img.shields.io/badge/Pyzo-0E6E60?style=for-the-badge&logo=python&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-
-[![Email Me](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.ss202@gmail.com)
+## 💬 I am always happy to help and chat about technology. Whether you have questions, ideas, or just want to discuss the latest trends, LET’S TALK TECH!
+[![](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.ss202@gmail.com)
